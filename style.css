@@ -1,1 +1,22 @@
 
+h1{
+  Font-family: Arial;
+  color: Blue;
+}
+.header{
+  padding-left: 150px;
+}
+h4{
+  font-family: Arial;
+  color: Blue;
+}
+.qualification{
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+.professional{
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  border-spacing: 5px;
+
+}
